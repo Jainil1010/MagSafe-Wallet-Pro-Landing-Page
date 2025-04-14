@@ -1,5 +1,8 @@
 # MagSafe Wallet Pro Landing Page
 
+## Demo
+<video controls src="2025-04-14 11-49-04.mkv" title="Title"></video>
+
 ## Overview
 This is a prototype of "MagSafe Wallet Pro with Stand for iPhone" with responsive product landing page for Capes India. The landing page features a modern design with scroll animations to create an engaging user experience.
 

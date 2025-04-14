@@ -568,7 +568,7 @@ footer {
   font-size: 0.9rem;
 }
 
-/* Responsive Styles */
+/* Media queries */
 @media screen and (max-width: 992px) {
   .hero-content {
     flex-direction: column;
@@ -614,7 +614,6 @@ footer {
   }
 }
 
-/* Media queries */
 @media screen and (max-width: 768px) {
     .section-title {
         font-size: 2rem;
